@@ -1,2 +1,2 @@
 # hello-world
-Start code
+This content is about a simple coder learnning.
