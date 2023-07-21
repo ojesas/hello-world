@@ -1,3 +1,5 @@
+const colors = require('colors'); //requer instalação da biblioteca no cmd: npm install colors
+
 //console.log("Hello World");
 
 
@@ -51,6 +53,6 @@ hello = `#     #      #  #  #      #            #            #  #  #\n
 #     #      #  #  #      #  #  #      #  #  #      #  #  #\n`;
 
 
-console.log(hello);
+console.log(colors.bold(colors.green(hello)));
 
 
