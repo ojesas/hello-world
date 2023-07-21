@@ -31,6 +31,19 @@ lL = `#      \n
 #  #  #\n`;
 
 console.log(lL);
+console.log();
+console.log(lL);
+
+console.log();
+//Cria/draw letra O
+oO = `#  #  #\n
+#     #\n
+#     #\n
+#     #\n
+#  #  #\n`;
+
+console.log(oO);
+
 
 
 
