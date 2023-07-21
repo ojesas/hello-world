@@ -13,7 +13,7 @@ hH = `#     #\n
 
 console.log(hH);
 console.log();
-//Cria/draw letra H
+//Cria/draw letra E
 eE = `#  #  #\n
 #      \n
 #  #  #\n
@@ -21,6 +21,17 @@ eE = `#  #  #\n
 #  #  #\n`;
 
 console.log(eE);
+
+console.log();
+//Cria/draw letra L
+lL = `#      \n
+#      \n
+#      \n
+#      \n
+#  #  #\n`;
+
+console.log(lL);
+
 
 
 
