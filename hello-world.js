@@ -2,7 +2,7 @@
 
 
 //Criando letras grandes com composição de caracteres
-let hH, eE, lL, oO;
+let hH, eE, lL, oO, hello;
 
 //Cria/draw letra H
 hH = `#     #\n
@@ -11,8 +11,8 @@ hH = `#     #\n
 #     #\n
 #     #\n`;
 
-console.log(hH);
-console.log();
+//console.log(hH);
+//console.log();
 //Cria/draw letra E
 eE = `#  #  #\n
 #      \n
@@ -20,9 +20,9 @@ eE = `#  #  #\n
 #      \n
 #  #  #\n`;
 
-console.log(eE);
+//console.log(eE);
 
-console.log();
+//console.log();
 //Cria/draw letra L
 lL = `#      \n
 #      \n
@@ -30,9 +30,9 @@ lL = `#      \n
 #      \n
 #  #  #\n`;
 
-console.log(lL);
-console.log();
-console.log(lL);
+//console.log(lL);
+//console.log();
+//console.log(lL);
 
 console.log();
 //Cria/draw letra O
@@ -42,9 +42,15 @@ oO = `#  #  #\n
 #     #\n
 #  #  #\n`;
 
-console.log(oO);
+//console.log(oO);
+
+hello = `#     #      #  #  #      #            #            #  #  #\n
+#     #      #            #            #            #     #\n
+#  #  #      #  #  #      #            #            #     #\n
+#     #      #            #            #            #     #\n
+#     #      #  #  #      #  #  #      #  #  #      #  #  #\n`;
 
 
-
+console.log(hello);
 
 
